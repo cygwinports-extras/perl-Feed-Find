@@ -1,0 +1,4 @@
+category: Perl
+requires: perl perl-Class-ErrorHandler
+sdesc: "Perl RSS feed autodiscovery module"
+ldesc: "This is a Perl class to perform autodiscovery of syndication feeds."
