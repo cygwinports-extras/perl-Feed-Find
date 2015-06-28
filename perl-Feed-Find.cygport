@@ -1,0 +1,12 @@
+CPAN_AUTHOR=btrott
+inherit perl
+
+NAME="perl-Feed-Find"
+VERSION=0.07
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Syndication feed auto-discovery for Perl"
+DESCRIPTION="Feed::Find implements feed auto-discovery for finding syndication
+feeds, given a URI."
+
+ARCH=noarch
