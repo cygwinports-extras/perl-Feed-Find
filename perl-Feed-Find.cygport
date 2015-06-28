@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-Feed-Find"
 VERSION=0.07
-RELEASE=1
+RELEASE=2
 CATEGORY="Perl"
 SUMMARY="Syndication feed auto-discovery for Perl"
 DESCRIPTION="Feed::Find implements feed auto-discovery for finding syndication
